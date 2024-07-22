@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.line-through-bold {
+    text-decoration-thickness: 3px;
+    /* text-decoration-color: gray; */
+}
+
+/* .display {
+    display: none;
+}
+
+#teks {
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+#teks.show {
+    opacity: 1;
+    display: block;
+} */
